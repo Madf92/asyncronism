@@ -4,7 +4,11 @@
   "description": "Work with asyncronism with JS",
   "main": "src/index.jsx",
   "scripts": {
-    "callback": "node src/callback/index.js"
+    "callback": "node src/callback/index.js",
+    "callback:challenge": "node src/callback/challenge.js",
+    "promise": "node src/promises/index.js",
+    "promise:challenge": "node src/promises/challenge.js",
+    "async": "node src/async/index.js"
   },
   "keywords": [
     "callbacks",
