@@ -1,0 +1,19 @@
+{
+  "name": "asyncronism",
+  "version": "1.0.0",
+  "description": "Work with asyncronism with JS",
+  "main": "src/index.jsx",
+  "scripts": {
+    "callback": "node src/callback/index.js"
+  },
+  "keywords": [
+    "callbacks",
+    "promises",
+    "async"
+  ],
+  "author": "Marco Di bonaventura",
+  "license": "ISC",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
